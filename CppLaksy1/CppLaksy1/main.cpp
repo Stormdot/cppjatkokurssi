@@ -127,7 +127,7 @@ int main(int argc, char* argv[]) {
         naytaSaannollisetLausekkeet();
         break;
     default:
-        cout << "Invalid choice" << endl;
+        cout << "Virheellinen valinta" << endl;
     }
 
     return 0;
